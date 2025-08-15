@@ -1,0 +1,38 @@
+<svg width="58" height="54" viewBox="0 0 58 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_dddd_10305_28085)">
+<rect x="4" y="2" width="50" height="50" rx="25" fill="white"/>
+<path d="M26.7795 39.3808C29.1497 39.8427 31.5007 39.6983 33.6304 38.6271C35.4714 37.7002 37.2065 37.8766 39.0315 38.4026C39.3009 38.4796 39.5735 38.5437 39.8462 38.6079C39.8654 38.6111 39.8911 38.579 39.9584 38.5341C39.5479 37.4436 39.2336 36.3146 39.24 35.1215C39.2432 34.5121 39.3939 33.9733 39.7018 33.4377C43.7751 26.3623 40.3176 17.5646 32.5303 15.1591C31.2281 14.755 30.6476 13.8826 30.9587 12.7889C31.2602 11.7337 32.2897 11.2911 33.5726 11.6632C43.2138 14.4728 47.9607 25.4899 43.3614 34.4191C42.999 35.1215 42.9348 35.7854 43.0856 36.5359C43.3678 37.9279 43.9259 39.2269 44.4326 40.5387C44.7469 41.3533 44.8881 42.1487 44.2209 42.8287C43.5731 43.4862 42.7905 43.3194 42.0079 43.0596C40.5903 42.5881 39.1887 42.0621 37.7197 41.7671C36.8409 41.5907 36.0166 41.6324 35.1603 41.9948C32.139 43.2713 28.999 43.5503 25.782 42.9089C25.3362 42.8191 24.9706 42.7261 24.6018 43.1975C24.2971 43.5856 23.816 43.4541 23.5305 43.0308C22.6613 41.7446 21.7889 40.4585 20.9582 39.1499C20.6118 38.6046 20.8556 38.1268 21.5067 38.0754C23.0558 37.9536 24.6082 37.8573 26.1605 37.806C27.0489 37.7707 27.1901 38.162 26.7795 39.3808Z" fill="#089744"/>
+<path d="M16.5211 26.6275C16.582 30.1556 17.4929 32.869 19.4911 35.1366C20.4148 36.1853 20.2031 37.4522 19.5296 37.9943C18.6251 38.7255 17.509 38.5491 16.643 37.5196C9.67348 29.2094 12.5825 16.7682 22.538 12.3389C22.9518 12.1529 23.3431 12.0823 23.1795 11.4088C23.0352 10.8122 23.5131 10.5332 24.084 10.6583C25.5978 10.9918 27.1053 11.3446 28.6063 11.7327C29.3151 11.9188 29.4562 12.464 28.9463 13.0124C27.9039 14.1254 26.8391 15.2159 25.7582 16.2935C25.2995 16.749 24.7415 16.672 24.549 16.0786C24.3438 15.45 24.0744 15.6392 23.6991 15.8285C19.0549 18.1762 16.7617 22.0026 16.5211 26.6275Z" fill="#089744"/>
+<path d="M28.9474 33.871C25.4832 33.8548 22.7246 31.0406 22.7502 27.5578C22.7757 24.1658 25.6141 21.3614 29.0176 21.3711C32.4658 21.3809 35.2627 24.208 35.25 27.6714C35.2372 31.1542 32.4563 33.8905 28.9474 33.871Z" fill="#007AFF"/>
+</g>
+<defs>
+<filter id="filter0_dddd_10305_28085" x="0" y="-2" width="58" height="58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_10305_28085"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_10305_28085" result="effect2_dropShadow_10305_28085"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="effect2_dropShadow_10305_28085" result="effect3_dropShadow_10305_28085"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="effect3_dropShadow_10305_28085" result="effect4_dropShadow_10305_28085"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect4_dropShadow_10305_28085" result="shape"/>
+</filter>
+</defs>
+</svg>
